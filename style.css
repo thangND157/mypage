@@ -166,7 +166,7 @@ html {
 
 .timeline {
     position: absolute;
-    top: 280px;
+    top: 320px;
     left: 52%;
 }
 
@@ -268,11 +268,11 @@ html {
 }
 
 .project {
-    width: 40%;
+    width: 36%;
     height: 100%;
     /* background-color: #555; */
     display: inline-block;
-    margin: 0 45px 50px 45px;
+    margin: 0 40px 50px 40px;
 }
 
 .project h2 {
@@ -282,9 +282,9 @@ html {
 }
 
 .project a {
-    width: 46.6%;
+    width: 47%;
     background-color: #28AFB0;
-    padding: 16px 40px;
+    padding: 16px 32px;
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
